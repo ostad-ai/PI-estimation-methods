@@ -5,7 +5,7 @@ Using different algorithms to estimate the PI number:
   <ul>
   <li>using Python, code in notebook format</li>
   </ul>
-  <li><b> Using Basel porblem</b></li>
+  <li><b> Using Basel problem</b></li>
   <ul>
   <li>with Python, code in notebook format</li>
   </ul>
