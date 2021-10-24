@@ -9,4 +9,8 @@ Using different algorithms to estimate the PI number:
   <ul>
   <li>with Python, code in notebook format</li>
   </ul>
-<ol>
+<li><b> With Arctangent and integration</b></li>
+  <ul>
+  <li>with Python, code in notebook format</li>
+  </ul>
+</ol>
