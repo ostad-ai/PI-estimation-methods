@@ -13,4 +13,8 @@ Using different algorithms to estimate the PI number:
   <ul>
   <li>with Python, code in notebook format</li>
   </ul>
+<li><b> With Gauss-Legendre algorithm</b></li>
+  <ul>
+  <li>with Python, code in notebook format</li>
+  </ul>
 </ol>
