@@ -17,4 +17,8 @@ Using different algorithms to estimate the PI number:
   <ul>
   <li>with Python, code in notebook format</li>
   </ul>
+<li><b> With Newton_Raphson_Tusi algorithm</b></li>
+  <ul>
+  <li>with Python code, finding root of cos(x) around one</li>
+  </ul>
 </ol>
