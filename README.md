@@ -21,4 +21,8 @@ Using different algorithms to estimate the PI number:
   <ul>
   <li>with Python code, finding root of cos(x) around one</li>
   </ul>
+<li><b> With the area of a circle and integration</b></li>
+  <ul>
+  <li>In the Python code, the area of a circle is estimated, which is finally used for PI estimation</li>
+  </ul>
 </ol>
