@@ -25,4 +25,8 @@ Using different algorithms to estimate the PI number:
   <ul>
   <li>In the Python code, the area of a circle is estimated, which is finally used for PI estimation</li>
   </ul>
+<li><b> With the Leibniz series</b></li>
+  <ul>
+  <li>In the Python code, the summation of terms of the Leibniz sereis is multiplied by four to get the PI estimation</li>
+  </ul>
 </ol>
